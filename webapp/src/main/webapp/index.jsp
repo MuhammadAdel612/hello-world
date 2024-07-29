@@ -12,6 +12,10 @@
     <input type="text" placeholder="Enter moible number" name="mobile" id="mobile" required>
     <br><br>
 
+    <label for="country"><b>Enter Country</b></label>
+    <input type="text" placeholder="Enter moible country" name="country" id="country" required>
+    <br><br>
+
     <label for="email"><b>Enter Email</b></label>
     <input type="text" placeholder="Enter Email" name="email" id="email" required>
     <br><br>
